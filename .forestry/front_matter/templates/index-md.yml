@@ -1,0 +1,10 @@
+---
+pages:
+- _posts/2017-10-17-post2.md
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
