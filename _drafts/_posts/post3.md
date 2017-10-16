@@ -1,8 +1,7 @@
 ---
 title: Post3
-date: 2017-10-17 07:29:00 +0000
+date: 2017-10-17 07:29:00 Z
 layout: ''
 ---
-
 
 Another post
