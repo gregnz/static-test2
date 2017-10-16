@@ -1,0 +1,11 @@
+---
+pages:
+- _posts/post3.md
+- _posts/post2.md
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
